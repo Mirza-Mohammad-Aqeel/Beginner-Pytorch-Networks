@@ -1,9 +1,18 @@
 # Beginner Pytorch Networks
 
-## So these are the Beginner Pytorch Networks I created, to get hands on experience with Code
+A Collection of Beginner Pytorch Models I Coded on Neural Networks
 
-## Things I learned =|
+# Things Covered
 
-## 1. Regressor Networks
-## 2. Binary Classifier Networks
-## 3. Multi Class Classifier Networks
+- Regressor Networks
+- Binary Classification Networks
+- Multi Class Classification Networks
+
+
+# Tools 
+
+- Pandas
+- Matplotlib
+- Scikit Learn
+- Pytorch
+- Miscellanous Libraries
